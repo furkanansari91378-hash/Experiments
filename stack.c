@@ -1,3 +1,8 @@
+Q. Declaration, initialization, and updating of the stack data structure are carried out
+with the help of push, pop, peek, and display functions on the elements of the stack.
+
+Soln:
+
 #include <stdio.h>
 #define MAX 5
 
